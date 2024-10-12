@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 303: 'url' is not a keyword argument or valid child of the textbutton statement.
+    textbutton _("Comenzar") action Show url("https://www.youtube.com/watch?v=f405SOIOAL8&list=PLpepwGR7VdlmYRqt78Z_FG0oB6fXBKJQH&index=10")
+                                            ^
+
+Ren'Py Version: Ren'Py 8.2.3.24061702
+Tue Oct  1 19:32:54 2024
